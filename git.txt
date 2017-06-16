@@ -1,2 +1,3 @@
 git1 said: hello
 git1 said: ni hao
+git2 said: hello
