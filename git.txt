@@ -1,1 +1,2 @@
 git1 said: hello
+git2 said: hello
